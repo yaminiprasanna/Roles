@@ -1,0 +1,108 @@
+.App {
+  text-align: center;
+}
+.required {
+  color: red;
+}
+.select{
+  margin:7px;
+ 
+}
+.btn-edit{
+  border:none;
+  background:rgba(255, 255, 255, 0.89);
+  color:rgb(72, 171, 236)
+}
+.btn1{
+  color:white;
+  background-color:rgb(51, 168, 214);
+  clip-path: polygon(100% 100%, 100% 100%, 100% 100%);
+  margin:7px;
+  
+}
+.btn2{
+  color:white;
+  background-color:rgb(51, 168, 214);
+  margin:7px;
+  clip-path: polygon(100% 100%, 100% 100%, 100% 100%)
+  
+}
+
+
+.clear{
+  color:white;
+  margin:7px;
+  clip-path: polygon(100% 100%, 100% 100%, 100% 100%)
+  
+}
+.btn-grp{
+  /* margin-right:-60%; */
+  margin-left:80%
+}
+
+.Title1{
+  box-sizing: border-box;
+  background-attachment: fixed;
+    width: 100%;
+    height:50px;
+    font-size: 15px;
+    display: flex;
+    justify-content: left;
+    margin-bottom: 1em;
+    background-color: rgb(230, 235, 235);
+    color:black;
+}
+.Title2{
+  box-sizing: border-box;
+  background-attachment: fixed;
+    width: 100%;
+    height:40px;
+    font-size: 15px;
+    display: flex;
+    justify-content: left;
+    margin-bottom: 1em;
+    background-color: rgb(251, 253, 253);
+    
+}
+.arrow{
+  align-content:right;
+  color:rgb(34, 150, 196);
+  border:none;
+  background-color: rgb(230, 235, 235);
+  
+ 
+}
+.col-lg-1{
+  width:9%
+}
+.select1{
+  width:100%
+}
+.select2{
+  width:20%;
+  margin:7px
+}
+.label {
+  display: block;
+  
+  width: 150px;
+  color: black;
+}
+.Ed{
+  font-size: small
+}
+input[type=text], select {
+  border:none;
+  border-bottom: 1px solid black;
+ 
+}
+.RoleDescription{
+  width:100%;
+  max-width:3800px;
+  border-width:medium
+}
+.input1{
+  width:60%
+}
+
+
